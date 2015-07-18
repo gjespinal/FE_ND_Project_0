@@ -74,9 +74,7 @@ h1 {
 .hero {
   padding: 1em;
   max-width: 100%;
-  /*background-color: #294860;*/
-background-image: url("");
- background: #ffffff url("https://github.com/gjespinal/FE_ND_Project_0/blob/master/images/bg1.jpg?raw=true") no-repeat top;
+  background: #ffffff url("https://github.com/gjespinal/FE_ND_Project_0/blob/master/images/bg1.jpg?raw=true") no-repeat top;
 }
 
 .my-picture {
